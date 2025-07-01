@@ -54,3 +54,5 @@ I always aim to **bridge the gap between state-of-the-art research and impactful
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PVTHust&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PVTHust&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PVTHust&theme=default&utcOffset=8)
+[![Followers](https://img.shields.io/github/followers/PVTHust?logo=github&style=flat-square)](https://github.com/PVTHust)
+[![GitHub Stars](https://img.shields.io/github/stars/PVTHust?logo=github&style=flat-square)](https://github.com/PVTHust)
