@@ -49,3 +49,8 @@ I always aim to **bridge the gap between state-of-the-art research and impactful
 
 ⭐ Feel free to check out my repositories and connect with me!
 ![](https://komarev.com/ghpvc/?username=PVTHust)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PVTHust&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PVTHust&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PVTHust&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PVTHust&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PVTHust&theme=default&utcOffset=8)
